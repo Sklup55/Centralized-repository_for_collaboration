@@ -1,0 +1,1 @@
+// This Javascript file is a part of my Shipping Calculator Project
