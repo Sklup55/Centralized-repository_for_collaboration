@@ -102,7 +102,7 @@ communication with the community for a specified period of time. No public or
 private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
-
+----------
 ### 4. Permanent Ban
 
 **Community Impact**: Demonstrating a pattern of violation of community
